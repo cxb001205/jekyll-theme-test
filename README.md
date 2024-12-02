@@ -1,4 +1,4 @@
-# Atlas-jekyll-theme
+# jekyll-theme-test
 ![Preview](./atlas-normal.png)
 
 ## How to use
